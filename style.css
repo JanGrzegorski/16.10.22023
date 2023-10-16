@@ -1,0 +1,219 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+div{
+    outline: black solid 1px;
+}
+.container{
+    display: flex;
+    width: 100vw;
+    height: 100vh;   
+}
+.lewastrona{
+    display: flex;
+    width: 50%;
+    height: 100%;
+}  
+.lewa{
+    display:block;
+    width: 50%;
+    height: 100%;
+}
+.prawa{
+    display: block;
+    width: 50%;
+    height: 100%;
+}
+.yellow_1{
+    display: flex;
+    background-color: gold;
+    width: 100%;
+    height: 50%;
+    justify-content: end;
+    align-items: end;
+    
+    
+}
+.yellow_2{
+    display: flex;
+    background-color: gold;
+    width: 100%;
+    height: 50%;
+    justify-content: end;
+    align-items: start;
+
+}
+.yellow_3{
+    display: flex;
+    background-color: gold;
+    width: 100%;
+    height: 50%;
+    justify-content: start;
+    align-items: end;
+    
+    
+}
+.yellow_4{
+    display: flex;
+    background-color: gold;
+    width: 100%;
+    height: 50%;
+    justify-content: start;
+    align-items: start; 
+}
+.green_1{
+    display: flex;
+    background-color: greenyellow;
+    width: 50%;
+    height: 50%;
+    justify-content: end;
+    align-items: end; 
+
+}
+.green_2{
+    display: flex;
+    background-color: greenyellow;
+    width: 50%;
+    height: 50%;
+    justify-content: end;
+    align-items: start;
+
+}
+.green_3{
+    display: flex;
+    background-color: greenyellow;
+    width: 50%;
+    height: 50%;
+    justify-content: start;
+    align-items: end;
+    
+
+}
+.green_4{
+    display: flex;
+    background-color: greenyellow;
+    width: 50%;
+    height: 50%;
+    justify-content: start;
+    align-items: start; 
+}
+.pink_1{
+    display: flex;
+    background-color: pink;
+    width: 50%;
+    height: 50%;
+    justify-content: end;
+    align-items: end;
+    
+    
+}
+.pink_2{
+    display: flex;
+    background-color: pink;
+    width: 50%;
+    height: 50%;
+    justify-content: end;
+    align-items: start;
+
+}
+.pink_3{
+    display: flex;
+    background-color: pink;
+    width: 50%;
+    height: 50%;
+    justify-content: start;
+    align-items: end;
+    
+    
+}
+.pink_4{
+    display: flex;
+    background-color: pink;
+    width: 50%;
+    height: 50%;
+    justify-content: start;
+    align-items: start; 
+}
+.gold_1{
+    display: flex;
+    background-color: gold;
+    width: 50%;
+    height: 50%;
+    justify-content: end;
+    align-items: end;
+    
+    
+}
+.gold_2{
+    display: flex;
+    background-color: gold;
+    width: 50%;
+    height: 50%;
+    justify-content: end;
+    align-items: start;
+
+}
+.gold_3{
+    display: flex;
+    background-color: gold;
+    width: 50%;
+    height: 50%;
+    justify-content: start;
+    align-items: end;
+    
+    
+}
+.gold_4{
+    display: flex;
+    background-color: gold;
+    width: 50%;
+    height: 50%;
+    justify-content: start;
+    align-items: start; 
+}
+.blue_1{
+    display: flex;
+    background-color: blue;
+    width: 50%;
+    height: 50%;
+    justify-content: end;
+    align-items: end;
+    
+    
+}
+.blue_2{
+    display: flex;
+    background-color: blue;
+    width: 50%;
+    height: 50%;
+    justify-content: end;
+    align-items: start;
+
+}
+.blue_3{
+    display: flex;
+    background-color: blue;
+    width: 50%;
+    height: 50%;
+    justify-content: start;
+    align-items: end;
+    
+    
+}
+.blue_4{
+    display: flex;
+    background-color: blue;
+    width: 50%;
+    height: 50%;
+    justify-content: start;
+    align-items: start; 
+}
+
+
+.prawastrona{
+    background-color: blue;
+    width: 50%;
+    height: 100%;
+}
